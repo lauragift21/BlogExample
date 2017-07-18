@@ -1,6 +1,6 @@
 # main text of home
 name: Egwuenu Gift
-bio: A girl that loves coding and coffee.
+bio: That girl that loves coding and coffee.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: laurandidi # enter this from your disqus account
+  shortname: mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -54,9 +54,9 @@ email: laurandidi21@gmail.com
 authors:
     giftegwuenu:
         name: Egwuenu Gift
-        bio: A girl that loves coding and coffee.
+        bio: That girl that loves coding and coffee.
         external-image: false
-        picture: assets/images/gift.jpg
+        picture: assets/images/myAvatar.png
         twitter: lauragift21
     
 # do you want a larger site? change the option below
