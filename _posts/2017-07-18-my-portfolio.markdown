@@ -5,7 +5,7 @@ date: 2017-07-18 01:31
 tag: 
 - tech
 - freecodecamp
-- #100DaysOfCode
+- 100DaysOfCode
 headerImage: true
 projects: true
 comments: true 	 
