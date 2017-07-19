@@ -21,6 +21,11 @@
 
         {% include social-links.html %}
     </header>
+
 {% endif %}
 
 {% include nav.html %}
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}

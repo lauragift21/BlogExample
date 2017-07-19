@@ -14,5 +14,5 @@ author: giftegwuenu
 
 ### My Introduction
 
-## Today, i start officially with this journey of being accountable to foster my growth with software developement on this platform i will be sharing  tips and tricks and other exciting stuff about tech, life and etc..😊😊
+## Today, i start officially with this journey of being accountable to foster my growth with software developement on this platform i will be sharing  tips and tricks and other exciting stuff about tech and life😊😊
 

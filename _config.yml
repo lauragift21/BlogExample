@@ -101,3 +101,8 @@ gems:
 
 jekyll-mentions:
     base_url: https://github.com
+
+# Google services
+google_analytics: UA-102896008-1
+
+
